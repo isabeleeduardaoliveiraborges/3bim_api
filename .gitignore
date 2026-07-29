@@ -1,0 +1,9 @@
+venv/
+env/
+# arquivo de cheque 
+__pycache__
+*.pyc
+
+
+# arquivos de anbiente 
+.vnv 
